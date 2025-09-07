@@ -1,0 +1,56 @@
+{
+  "overall": {
+    "mean_final_reward": 112.62154315412985,
+    "std_final_reward": 9.474535469271562,
+    "mean_final_success": 0.858,
+    "std_final_success": 0.12237646832622684,
+    "confidence_interval_reward": 8.304796502893439,
+    "confidence_interval_success": 0.1072677039933269,
+    "min_reward": 95.33512824750161,
+    "max_reward": 121.314680867599,
+    "min_success": 0.64,
+    "max_success": 1.0
+  },
+  "seed_details": {
+    "0": {
+      "mean_reward": 121.314680867599,
+      "std_reward": 28.19009149678272,
+      "success_rate": 0.94,
+      "mean_steps": 38.68,
+      "mean_distance": 8.146892713554697,
+      "mean_collisions": 0.18
+    },
+    "1": {
+      "mean_reward": 95.33512824750161,
+      "std_reward": 38.38723817318874,
+      "success_rate": 0.64,
+      "mean_steps": 63.86,
+      "mean_distance": 7.730349092818285,
+      "mean_collisions": 0.6
+    },
+    "2": {
+      "mean_reward": 121.24676482203635,
+      "std_reward": 22.867084783049282,
+      "success_rate": 1.0,
+      "mean_steps": 40.32,
+      "mean_distance": 7.951500360881613,
+      "mean_collisions": 0.38
+    },
+    "3": {
+      "mean_reward": 112.76108477100837,
+      "std_reward": 27.349569627904607,
+      "success_rate": 0.84,
+      "mean_steps": 45.5,
+      "mean_distance": 7.913818583329587,
+      "mean_collisions": 0.1
+    },
+    "4": {
+      "mean_reward": 112.45005706250393,
+      "std_reward": 32.30405522347873,
+      "success_rate": 0.87,
+      "mean_steps": 39.85,
+      "mean_distance": 7.802570888503664,
+      "mean_collisions": 0.28
+    }
+  }
+}

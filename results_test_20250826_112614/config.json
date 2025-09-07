@@ -1,0 +1,15 @@
+{
+  "env_id": "GridWorld_v1",
+  "episode_length": 100,
+  "batch_size": 128,
+  "minimal_size": 100,
+  "eval_interval": 50,
+  "gamma": 0.99,
+  "tau": 0.005,
+  "num_episodes": 20000,
+  "buffer_capacity": 50000,
+  "update_interval": 50,
+  "actor_lr": 5e-05,
+  "critic_lr": 0.0005,
+  "num_seeds": 5
+}
